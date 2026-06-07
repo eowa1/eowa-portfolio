@@ -5,7 +5,7 @@ Chemical Engineer | Process Quality Engineer | Data Analyst & Automation Profess
 
 ## About Me
 
-I am a Process Quality Engineering graduate from Conestoga College with a background in Chemical Engineering and certificate in IT from British Computer Society.
+I am a Process Quality Engineering graduate from Conestoga College with a background in Chemical Engineering and a certificate in IT from British Computer Society.
 
 My interests include:
 
