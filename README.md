@@ -18,7 +18,7 @@ My interests include:
 ## Featured Projects
 
 ### Process Improvement
-Reducing Packaging Defects Through Statistical Process Control
+Reducing Packaging Defects Through Statistical Process Control.
   Conducted process capability analysis using SPC techniques
   Identified process-centering issues affecting Cpk
   Developed improvement recommendations
