@@ -19,9 +19,9 @@ My interests include:
 
 ### Process Improvement
 Reducing Packaging Defects Through Statistical Process Control.
-  Conducted process capability analysis using SPC techniques
-  Identified process-centering issues affecting Cpk
-  Developed improvement recommendations
+  - Conducted process capability analysis using SPC techniques
+  - Identified process-centering issues affecting Cpk
+  - Developed improvement recommendations
 
 ### Lean Six Sigma Manufacturing Analysis
 Process improvement case study using SIPOC, Cause & Effect Matrix and quality metrics.
