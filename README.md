@@ -30,7 +30,7 @@ Reducing Customer Returns by 80% in a Laser Inspection System:
   - Quantified approximately $161,280/year in potential labor savings.
   - Developed corrective actions including FMEA implementation, calibration verification, and KPI monitoring.
     
-Tools Used
+Tools Used: 
 Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
 
 📄 Case Study PDF: LSS_Reducing_Returns_by_80%.pdf
