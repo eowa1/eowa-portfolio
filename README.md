@@ -38,7 +38,7 @@ Reducing Customer Returns by 80% in a Laser Inspection System:
 Tools Used: 
 Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
 
-📄 Case Study PDF: LSS_Reducing_Returns_by_80%.pdf
+📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/cf4114340ef3e931d245c60002999de65e695018/LSS_Reducing_Returns_by_80%25.pdf
 
 Process improvement case study using SIPOC, Cause & Effect Matrix and quality metrics.
 
