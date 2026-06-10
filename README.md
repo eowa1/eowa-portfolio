@@ -17,11 +17,16 @@ My interests include:
 
 ## Featured Projects
 
-### Process Improvement Case Studies
+### Process Capability Improvement Case Study:
 Reducing Packaging Defects Through Statistical Process Control:
   - Conducted process capability analysis using SPC techniques
   - Identified process-centering issues affecting Cpk
   - Developed improvement recommendations
+
+Tools Used: 
+Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality Test · Cp / Cpk / Pp / Ppk · DMAIC
+
+📄 Case Study PDF: LSS_Reducing_Returns_by_80%.pdf
 
 ### Lean Six Sigma Case Studies
 Reducing Customer Returns by 80% in a Laser Inspection System:
