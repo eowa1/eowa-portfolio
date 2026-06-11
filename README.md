@@ -26,7 +26,7 @@ Reducing Packaging Defects Through Statistical Process Control:
 Tools Used: 
 Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality Test · Cp / Cpk / Pp / Ppk · DMAIC
 
-📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/cf4114340ef3e931d245c60002999de65e695018/Process_Capability%20-Reducing%20Packaging%20Defects%20Through%20Statistical%20Process%20Control.pdf
+📄 Case Study PDF: https://tinyurl.com/Reducing-Defects-via-SPC
 
 ### Lean Six Sigma Case Studies
 Reducing Customer Returns by 80% in a Laser Inspection System:
@@ -38,7 +38,7 @@ Reducing Customer Returns by 80% in a Laser Inspection System:
 Tools Used: 
 Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
 
-📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/cf4114340ef3e931d245c60002999de65e695018/LSS_Reducing_Returns_by_80%25.pdf
+📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-by-80-percent
 
 Process improvement case study using SIPOC, Cause & Effect Matrix and quality metrics.
 
