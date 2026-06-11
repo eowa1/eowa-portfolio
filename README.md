@@ -18,7 +18,7 @@ My interests include:
 ## Featured Projects
 
 ### Process Capability Improvement Case Study:
-Reducing Packaging Defects Through Statistical Process Control:
+Reducing Packaging Defects Through Statistical Process Control
   - Conducted process capability analysis using SPC techniques
   - Identified process-centering issues affecting Cpk
   - Developed improvement recommendations
@@ -28,17 +28,17 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
 
 📄 Case Study PDF: https://tinyurl.com/Reducing-Defects-via-SPC
 
-### Lean Six Sigma Case Study
+### Lean Six Sigma Case Studies:
 1. Reducing Customer Returns by 80% in a Laser Inspection System
   - Identified galvanometer calibration failures as the source of 54% of all customer returns.
   - Applied Pareto Analysis and 5-Why Root Cause Analysis to isolate critical defect drivers.
   - Quantified approximately $161,280/year in potential labor savings.
   - Developed corrective actions including FMEA implementation, calibration verification, and KPI monitoring.
     
-Tools Used: 
-Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
+  Tools Used: 
+  Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
 
-📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-by-80-percent
+  📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-by-80-percent
 
 2. Optimizing Manufacturing Flow Through Value Stream Mapping
   - A Value Stream Mapping analysis revealed that the process required approximately 14 days to deliver a product that received only 60 seconds of value-added work.
