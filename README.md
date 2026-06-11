@@ -5,7 +5,7 @@ Chemical Engineer | Process Quality Engineer | Data Analyst & Automation Profess
 
 ## About Me
 
-I am a Process Quality Engineering graduate from Conestoga College with a background in Chemical Engineering and a certificate in IT from British Computer Society.
+I am a Process Quality Engineering graduate from Conestoga College Canada with a background in Chemical Engineering and a certificate in IT from British Computer Society.
 
 My interests include:
 
@@ -28,8 +28,8 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
 
 📄 Case Study PDF: https://tinyurl.com/Reducing-Defects-via-SPC
 
-### Lean Six Sigma Case Studies
-Reducing Customer Returns by 80% in a Laser Inspection System:
+### Lean Six Sigma Case Study
+1. Reducing Customer Returns by 80% in a Laser Inspection System
   - Identified galvanometer calibration failures as the source of 54% of all customer returns.
   - Applied Pareto Analysis and 5-Why Root Cause Analysis to isolate critical defect drivers.
   - Quantified approximately $161,280/year in potential labor savings.
@@ -40,11 +40,11 @@ Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why •
 
 📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-by-80-percent
 
-Process improvement case study using SIPOC, Cause & Effect Matrix and quality metrics.
-
-### Value Stream Mapping & Bottleneck Analysis
-Manufacturing flow analysis using VSM and capacity calculations.
-
+2. Optimizing Manufacturing Flow Through Value Stream Mapping
+  - A Value Stream Mapping analysis revealed that the process required approximately 14 days to deliver a product that received only 60 seconds of value-added work.
+  - The investigation determined that inventory accumulation, push scheduling, and weekly raw-material deliveries were the primary contributors to waste.
+  - Recommended improvements included Kanban implementation, increased delivery frequency, SMED initiatives, and line balancing.
+  These actions are projected to reduce lead time from 14 days to 2–3 days while decreasing WIP inventory by approximately 79%.
 ### Manufacturing Yield Analyzer
 Python application for DPU, FTY and RTY calculations.
 
