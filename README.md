@@ -1,11 +1,11 @@
 # eowa-portfolio
 # Emmanuella Owa
 
-Chemical Engineer | Process Quality Engineer | Data Analyst & Automation Professional
+Chemical Engineer | Process Improvement & Quality Professional | Data Analyst
 
 ## About Me
 
-I am a Process Quality Engineering graduate from Conestoga College Canada with a background in Chemical Engineering and a certificate in IT from British Computer Society.
+I am a Process Quality Engineering graduate from Conestoga College Canada with a background in Chemical Engineering and a certificate in IT from British Computer Society. Possess strong use and knowledge of python for process automation.
 
 My interests include:
 
