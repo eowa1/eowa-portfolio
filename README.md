@@ -38,13 +38,19 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
   Tools Used: 
   Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
 
-  📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-by-80-percent
+  📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-via-LSS
 
 2. Optimizing Manufacturing Flow Through Value Stream Mapping
   - A Value Stream Mapping analysis revealed that the process required approximately 14 days to deliver a product that received only 60 seconds of value-added work.
   - The investigation determined that inventory accumulation, push scheduling, and weekly raw-material deliveries were the primary contributors to waste.
   - Recommended improvements included Kanban implementation, increased delivery frequency, SMED initiatives, and line balancing.
   These actions are projected to reduce lead time from 14 days to 2–3 days while decreasing WIP inventory by approximately 79%.
+
+Tools Used: 
+  Value Stream Map (VSM) • Takt time • Bottleneck Analysis • Lead time Analysis • DOWNTIME Waste Framework
+
+  📄 Case Study PDF: https://tinyurl.com/flow-optimization-via-VSM
+  
 ### Manufacturing Yield Analyzer
 Python application for DPU, FTY and RTY calculations.
 
