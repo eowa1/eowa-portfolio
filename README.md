@@ -29,7 +29,22 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
 📄 Case Study PDF: https://tinyurl.com/Reducing-Defects-via-SPC
 
 ### Lean Six Sigma Case Studies:
-1. Reducing Customer Returns by 80% in a Laser Inspection System
+
+1. Improving Manufacturing Yield Through Lean Six Sigma
+
+  - Applied Lean Six Sigma methodologies to analyze an 8-step manufacturing process and identify quality improvement opportunities.
+  - Mapped the end-to-end process using SIPOC.
+  - Prioritized critical process inputs using a Cause & Effect Matrix.
+  - Calculated First Time Yield (FTY), Defects Per Unit (DPU), and Rolled Throughput Yield (RTY).
+  - Performed Failure Mode & Effects Analysis (FMEA) to prioritize process risks.
+  - Developed corrective actions using Poka-Yoke, SPC, standardized work, and supplier quality controls.
+  - Projected RTY improvement from 66% to 88% through targeted process improvements.
+
+Tools Used: SIPOC · Cause & Effect Matrix · FMEA · Pareto Analysis · FTY · DPU · RTY · Root Cause Analysis · SPC · Poka-Yoke · Lean Six Sigma
+
+📄 Case Study PDF:
+
+2. Reducing Customer Returns by 80% in a Laser Inspection System
   - Identified galvanometer calibration failures as the source of 54% of all customer returns.
   - Applied Pareto Analysis and 5-Why Root Cause Analysis to isolate critical defect drivers.
   - Quantified approximately $161,280/year in potential labor savings.
@@ -40,7 +55,7 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
 
   📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-via-LSS
 
-2. Optimizing Manufacturing Flow Through Value Stream Mapping
+3. Optimizing Manufacturing Flow Through Value Stream Mapping
   - A Value Stream Mapping analysis revealed that the process required approximately 14 days to deliver a product that received only 60 seconds of value-added work.
   - The investigation determined that inventory accumulation, push scheduling, and weekly raw-material deliveries were the primary contributors to waste.
   - Recommended improvements included Kanban implementation, increased delivery frequency, SMED initiatives, and line balancing.
