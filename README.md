@@ -40,9 +40,9 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
   - Developed corrective actions using Poka-Yoke, SPC, standardized work, and supplier quality controls.
   - Projected RTY improvement from 66% to 88% through targeted process improvements.
 
-Tools Used: SIPOC · Cause & Effect Matrix · FMEA · Pareto Analysis · FTY · DPU · RTY · Root Cause Analysis · SPC · Poka-Yoke · Lean Six Sigma
+Tools Used: SIPOC · Cause & Effect Matrix · FMEA · FTY · DPU · RTY · Root Cause Analysis · Lean Six Sigma
 
-📄 Case Study PDF:
+📄 Case Study PDF: https://tinyurl.com/Improving-Yield-Via-LSS
 
 2. Reducing Customer Returns by 80% in a Laser Inspection System
   - Identified galvanometer calibration failures as the source of 54% of all customer returns.
