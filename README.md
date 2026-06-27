@@ -5,7 +5,8 @@ Chemical Engineer | Process Improvement & Quality Professional | Data Analyst
 
 ## About Me
 
-I am a Process Quality Engineering graduate from Conestoga College Canada with a background in Chemical Engineering and a certificate in IT from British Computer Society. Possess strong use and knowledge of python for process automation.
+I am a Process Quality Engineer with a background in Chemical Engineering (B.Eng.) and a Postgraduate Certificate in Process Quality Engineering from Conestoga College, Canada. I hold a certificate in IT from the British Computer Society. Possess strong use and knowledge of python and Excel for process automation and data analysis.
+My work sits at the intersection of manufacturing operations and data-driven quality improvement. I apply Lean Six Sigma, Statistical Process Control, and Value Stream Mapping to reduce defects, improve yield, and eliminate waste. 
 
 My interests include:
 
