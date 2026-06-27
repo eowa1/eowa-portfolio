@@ -43,7 +43,7 @@ Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality
 
 Tools Used: SIPOC · Cause & Effect Matrix · FMEA · FTY · DPU · RTY · Root Cause Analysis · Lean Six Sigma
 
-📄 Case Study PDF: https://tinyurl.com/Improving-Yield-Via-LSS
+📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/18bba7728dd42890e253f6594d225d449032c1ab/Improving%20Manufacturing%20Yield%20Through%20Lean%20Six%20Sigma.pdf
 
 2. Reducing Customer Returns by 80% in a Laser Inspection System
   - Identified galvanometer calibration failures as the source of 54% of all customer returns.
