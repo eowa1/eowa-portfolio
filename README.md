@@ -27,7 +27,7 @@ Reducing Packaging Defects Through Statistical Process Control
 Tools Used: 
 Minitab · Capability Sixpack · Xbar‑R Charts · Anderson‑Darling Normality Test · Cp / Cpk / Pp / Ppk · DMAIC
 
-📄 Case Study PDF: https://tinyurl.com/Reducing-Defects-via-SPC
+📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/6c8fbee9bd823f7b31fa40fecd53b6b579ef0fe9/Process_Capability%20-Reducing%20Packaging%20Defects%20Through%20Statistical%20Process%20Control.pdf
 
 ### Lean Six Sigma Case Studies:
 
