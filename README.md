@@ -65,7 +65,7 @@ Tools Used: SIPOC · Cause & Effect Matrix · FMEA · FTY · DPU · RTY · Root 
 Tools Used: 
   Value Stream Map (VSM) • Takt time • Bottleneck Analysis • Lead time Analysis • DOWNTIME Waste Framework
 
-  📄 Case Study PDF: https://tinyurl.com/flow-optimization-via-VSM
+  📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/4934f462ea10439ebba90fc8ea875336ff3b6412/Manufacturing%20flow%20optimization%20using%20value%20stream%20map.pdf
   
 ### Manufacturing Yield Analyzer
 Python application for DPU, FTY and RTY calculations.
