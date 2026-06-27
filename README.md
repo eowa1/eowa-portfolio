@@ -54,7 +54,7 @@ Tools Used: SIPOC · Cause & Effect Matrix · FMEA · FTY · DPU · RTY · Root 
   Tools Used: 
   Lean Six Sigma (DMAIC) • Pareto Analysis • Root Cause Analysis • 5-Why • Cost-Benefit Analysis • Process Mapping
 
-  📄 Case Study PDF: https://tinyurl.com/Reducing-Returns-via-LSS
+  📄 Case Study PDF: https://github.com/eowa1/eowa-portfolio/blob/aeaf706b9fea2d64a41d18cb78c3dc98ce7752b9/Reducing_Returns_by_80%25_using_Lean_Six_Sigma.pdf
 
 3. Optimizing Manufacturing Flow Through Value Stream Mapping
   - A Value Stream Mapping analysis revealed that the process required approximately 14 days to deliver a product that received only 60 seconds of value-added work.
